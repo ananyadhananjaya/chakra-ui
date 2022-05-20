@@ -1,5 +1,35 @@
 # Change Log
 
+## 2.0.3
+
+### Patch Changes
+
+- [#6046](https://github.com/chakra-ui/chakra-ui/pull/6046)
+  [`3319eca8b`](https://github.com/chakra-ui/chakra-ui/commit/3319eca8bf02b892ea345a68294110919e2963cb)
+  Thanks [@Averethel](https://github.com/Averethel)! - Ensure types used by
+  other chakra packages are properly exported and imported so that `src`
+  directory is not referenced in the emitted type declarations.
+- Updated dependencies
+  [[`3319eca8b`](https://github.com/chakra-ui/chakra-ui/commit/3319eca8bf02b892ea345a68294110919e2963cb),
+  [`ddea8d143`](https://github.com/chakra-ui/chakra-ui/commit/ddea8d143e76c0e4758e6ea4b4d881f88b34452d),
+  [`3992e50d3`](https://github.com/chakra-ui/chakra-ui/commit/3992e50d368535e89e6c3547b5414d192f58b7fb),
+  [`b56f16f4e`](https://github.com/chakra-ui/chakra-ui/commit/b56f16f4eb7c30716e3ae25666d35a8f9b09e9f8),
+  [`c93f5c90b`](https://github.com/chakra-ui/chakra-ui/commit/c93f5c90b0784584a8aef54fd912afa52f549016),
+  [`1cea9022b`](https://github.com/chakra-ui/chakra-ui/commit/1cea9022bede29a4b9c27b76e73fea8a670bf70c)]:
+  - @chakra-ui/theme@2.0.2
+  - @chakra-ui/system@2.1.0
+  - @chakra-ui/textarea@2.0.1
+  - @chakra-ui/avatar@2.0.1
+  - @chakra-ui/image@2.0.1
+  - @chakra-ui/toast@2.0.3
+  - @chakra-ui/accordion@2.0.1
+  - @chakra-ui/menu@2.0.1
+  - @chakra-ui/pin-input@2.0.1
+  - @chakra-ui/tabs@2.0.1
+  - @chakra-ui/modal@2.0.1
+  - @chakra-ui/provider@2.0.3
+  - @chakra-ui/skeleton@2.0.3
+
 ## 2.0.2
 
 ### Patch Changes
